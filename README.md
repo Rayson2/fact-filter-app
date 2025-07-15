@@ -14,7 +14,7 @@ This monorepo contains:
 
 ```
 
-fact-filter/
+fact-filter-app/
 ├── frontend/        # React app (Vite + SCSS)
 │   ├── src/
 │   └── .env         # API base URL and EmailJS keys
